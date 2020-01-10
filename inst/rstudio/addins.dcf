@@ -1,0 +1,5 @@
+Name: Tidylog toggle
+Description: Turn tidylog on and off
+Binding: toggle_tidylog
+Interactive: false
+
